@@ -62,31 +62,7 @@
 "file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":0.1-0.6: error: Start tag seen without seeing a doctype first. Expected "<!DOCTYPE html>".
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":3.5-3.11: error: Element "head" is missing a required instance of child element "title".
-"file:/github/workspace/index.html":251.15-252.38: error: Duplicate ID "navbarDropdown2".
-"file:/github/workspace/index.html":694.68-694.81: error: Stray end tag "smalskillsl".
-"file:/github/workspace/index.html":694.68-694.85: error: End tag "p" seen, but there were open elements.
-"file:/github/workspace/index.html":694.34-694.59: error: Unclosed element "small".
-"file:/github/workspace/index.html":695.11-695.16: error: End tag "div" seen, but there were open elements.
-"file:/github/workspace/index.html":696.9-696.14: error: End tag "div" seen, but there were open elements.
-"file:/github/workspace/index.html":697.7-697.12: error: End tag "div" seen, but there were open elements.
-"file:/github/workspace/index.html":698.7-698.28: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":710.5-710.10: error: End tag "div" seen, but there were open elements.
-"file:/github/workspace/index.html":712.5-712.41: error: Element "h2" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":713.5-713.21: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":739.5-739.41: error: Element "h1" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":740.5-740.28: error: Element "p" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":743.5-743.41: error: Element "h2" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":744.5-744.28: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":819.5-819.28: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":889.5-889.45: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":903.5-903.28: error: Element "h5" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":904.5-904.9: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":908.5-908.37: error: Element "h2" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":909.5-909.47: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":1053.5-1053.23: error: Element "div" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":1067.3-1067.9: error: End tag "main" seen, but there were open elements.
-"file:/github/workspace/index.html":1068.3-1068.10: error: Element "footer" not allowed as child of element "small" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/index.html":1249.1-1249.7: error: End tag for  "body" seen, but there were unclosed elements.
+"file:/github/workspace/index.html":246.13-247.36: error: Duplicate ID "navbarDropdown2".
 "file:/github/workspace/project-orion/chat/index.html":103.21-103.155: error: Attribute "type" not allowed on element "svg" at this point.
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
 "file:/github/workspace/webvium/index.html":345.17-345.23: error: Element "title" not allowed as child of element "a" in this context. (Suppressing further errors from this subtree.)
@@ -95,11 +71,11 @@
 "file:/github/workspace/webvium/download/index.html":122.11-122.14: error: Stray end tag "a".
 "file:/github/workspace/webviumvpn/download/index.html":130.11-130.14: error: Stray end tag "a".
 "file:/github/workspace/webviumvpn/download/index.html":166.5-166.10: error: Stray end tag "div".
-"file:/github/workspace/search/index.html":148.5-148.12: error: The "center" element is obsolete. Use CSS instead.
-"file:/github/workspace/search/index.html":286.17-286.65: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":292.17-292.67: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":298.17-298.54: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":304.17-304.54: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":309.13-309.18: error: End tag "div" seen, but there were open elements.
-"file:/github/workspace/search/index.html":285.15-285.36: error: Unclosed element "ul".
-"file:/github/workspace/search/index.html":313.7-313.12: error: Stray end tag "div".
+"file:/github/workspace/search/index.html":93.5-93.12: error: The "center" element is obsolete. Use CSS instead.
+"file:/github/workspace/search/index.html":231.17-231.65: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
+"file:/github/workspace/search/index.html":237.17-237.67: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
+"file:/github/workspace/search/index.html":243.17-243.54: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
+"file:/github/workspace/search/index.html":249.17-249.54: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
+"file:/github/workspace/search/index.html":254.13-254.18: error: End tag "div" seen, but there were open elements.
+"file:/github/workspace/search/index.html":230.15-230.36: error: Unclosed element "ul".
+"file:/github/workspace/search/index.html":258.7-258.12: error: Stray end tag "div".
