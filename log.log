@@ -1,7 +1,4 @@
 "file:/usr/local/lib/python3.10/idlelib/help.html":979.5-979.42: error: Duplicate ID "cpython-language-and-version".
-"file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Non-space characters found without seeing a doctype first. Expected "<!DOCTYPE html>".
-"file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Element "head" is missing a required instance of child element "title".
-"file:/github/workspace/index.html":246.13-247.36: error: Duplicate ID "navbarDropdown2".
 "file:/github/workspace/google022983bf0cf659ae.html":0.1-0.52: error: Non-space characters found without seeing a doctype first. Expected "<!DOCTYPE html>".
 "file:/github/workspace/google022983bf0cf659ae.html":0.1-0.52: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/pinterest-326fc.html":0.294-0.301: error: Element "title" must not be empty.
@@ -61,21 +58,10 @@
 "file:/github/workspace/pinterest-326fc.html":0.4183-0.4201: error: The "align" attribute on the "td" element is obsolete. Use CSS instead.
 "file:/github/workspace/pinterest-326fc.html":0.4426-0.4464: error: The "font" element is obsolete. Use CSS instead.
 "file:/github/workspace/pinterest-326fc.html":0.4652-0.4690: error: The "font" element is obsolete. Use CSS instead.
+"file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Non-space characters found without seeing a doctype first. Expected "<!DOCTYPE html>".
+"file:/github/workspace/qkdq6zub0hw6o6acpoiylfrrf5e7g1.html":0.1-0.30: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":0.1-0.6: error: Start tag seen without seeing a doctype first. Expected "<!DOCTYPE html>".
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":3.5-3.11: error: Element "head" is missing a required instance of child element "title".
-"file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
-"file:/github/workspace/webviumvpn/download/index.html":130.11-130.14: error: Stray end tag "a".
-"file:/github/workspace/webviumvpn/download/index.html":166.5-166.10: error: Stray end tag "div".
 "file:/github/workspace/project-orion/chat/index.html":103.21-103.155: error: Attribute "type" not allowed on element "svg" at this point.
-"file:/github/workspace/search/index.html":93.5-93.12: error: The "center" element is obsolete. Use CSS instead.
-"file:/github/workspace/search/index.html":231.17-231.65: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":237.17-237.67: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":243.17-243.54: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":249.17-249.54: error: Element "a" not allowed as child of element "ul" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/search/index.html":254.13-254.18: error: End tag "div" seen, but there were open elements.
-"file:/github/workspace/search/index.html":230.15-230.36: error: Unclosed element "ul".
-"file:/github/workspace/search/index.html":258.7-258.12: error: Stray end tag "div".
-"file:/github/workspace/webvium/index.html":345.17-345.23: error: Element "title" not allowed as child of element "a" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/webvium/index.html":353.17-353.23: error: Element "title" not allowed as child of element "a" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/webvium/index.html":603.76-603.79: error: No "p" element in scope but a "p" end tag seen.
-"file:/github/workspace/webvium/download/index.html":122.11-122.14: error: Stray end tag "a".
+"file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
+"file:/github/workspace/search/index.html":95.7-95.14: error: The "center" element is obsolete. Use CSS instead.
