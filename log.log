@@ -63,12 +63,12 @@
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":0.1-0.6: error: Start tag seen without seeing a doctype first. Expected "<!DOCTYPE html>".
 "file:/github/workspace/yandex_b229053f47e9b4b5.html":3.5-3.11: error: Element "head" is missing a required instance of child element "title".
 "file:/github/workspace/assets/bootstrap.min.css":0.0-0.0: error: CSS: org.w3c.css.values.CssNumber cannot be cast to org.w3c.css.values.CssCalc.
-"file:/github/workspace/project-orion/chat/index.html":311.21-312.42: error: Attribute "href" not allowed on element "button" at this point.
-"file:/github/workspace/project-orion/chat/index.html":314.25-314.108: error: Element "ul" not allowed as child of element "button" in this context. (Suppressing further errors from this subtree.)
-"file:/github/workspace/project-orion/chat/index.html":315.33-315.99: error: The element "a" must not appear as a descendant of the "button" element.
-"file:/github/workspace/project-orion/chat/index.html":315.33-315.99: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
-"file:/github/workspace/project-orion/chat/index.html":316.33-316.102: error: The element "a" must not appear as a descendant of the "button" element.
-"file:/github/workspace/project-orion/chat/index.html":316.33-316.102: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
-"file:/github/workspace/project-orion/chat/index.html":317.33-317.78: error: The element "a" must not appear as a descendant of the "button" element.
-"file:/github/workspace/project-orion/chat/index.html":317.33-317.78: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
+"file:/github/workspace/project-orion/chat/index.html":307.21-308.42: error: Attribute "href" not allowed on element "button" at this point.
+"file:/github/workspace/project-orion/chat/index.html":310.25-310.108: error: Element "ul" not allowed as child of element "button" in this context. (Suppressing further errors from this subtree.)
+"file:/github/workspace/project-orion/chat/index.html":311.33-311.99: error: The element "a" must not appear as a descendant of the "button" element.
+"file:/github/workspace/project-orion/chat/index.html":311.33-311.99: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
+"file:/github/workspace/project-orion/chat/index.html":312.33-312.102: error: The element "a" must not appear as a descendant of the "button" element.
+"file:/github/workspace/project-orion/chat/index.html":312.33-312.102: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
+"file:/github/workspace/project-orion/chat/index.html":313.33-313.78: error: The element "a" must not appear as a descendant of the "button" element.
+"file:/github/workspace/project-orion/chat/index.html":313.33-313.78: error: The element "a" must not appear as a descendant of an element with the attribute "role=button".
 "file:/github/workspace/search/index.html":95.7-95.14: error: The "center" element is obsolete. Use CSS instead.
